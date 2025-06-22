@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 📫 How to reach me
 
-- [Email](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- [Email](mailto:rehanpathan8012@example.com)
+- [LinkedIn](https://www.linkedin.com/in/-rehanpathan/)
 - [Twitter](https://twitter.com/your-twitter)
 
 ---
